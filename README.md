@@ -34,4 +34,6 @@ The app implements smooth navigation and focuses on a high-quality UI/UX experie
 ![4](https://github.com/user-attachments/assets/188aa2b1-c332-482e-9865-34d9b67621fe)
 ![5](https://github.com/user-attachments/assets/f9cfd9ab-0e11-408c-88d7-ab22fd7d4f2e)
 
+**Demo Video**
 
+A short demo video showcasing the UI and navigation of the application can be found [here](https://drive.google.com/drive/folders/1YXtjwSSn016HQfUAjc0ni5cEdoliX8j5?dmr=1&ec=wgc-drive-hero-goto). 
